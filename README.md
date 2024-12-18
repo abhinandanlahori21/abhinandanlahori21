@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="center">an atos business</h3>
+<h5 align="center" style="margin-top:-30px">an atos business</h5>
 
 ###
 

@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i0.wp.com/silicontrust.org/wp-content/uploads/2023/04/eviden.jpg?fit=2650%2C1182&ssl=1"  />
+  <img height="200" src="https://d2908q01vomqb2.cloudfront.net/77de68daecd823babbb58edb1c8e14d7106e83bb/2023/09/11/Eviden-AWS-Partners-2023-300x150.png"  />
 </div>
 
 ###

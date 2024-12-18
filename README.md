@@ -5,7 +5,10 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://www.enterpriseai.news/wp-content/uploads/2023/10/eviden-logo-300x168.png"  />
+  <img height="175" src="https://www.enterpriseai.news/wp-content/uploads/2023/10/eviden-logo-300x168.png"  />
+  <img height="200" src="https://th.bing.com/th/id/OIP.Iok_mxaanK1CZlWPtSIqrQHaCs?rs=1&pid=ImgDetMain"  />
+
+  
 </div>
 
 ###

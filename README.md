@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://d2908q01vomqb2.cloudfront.net/77de68daecd823babbb58edb1c8e14d7106e83bb/2023/09/11/Eviden-AWS-Partners-2023-300x150.png"  />
+  <img height="200" src="https://www.enterpriseai.news/wp-content/uploads/2023/10/eviden-logo-300x168.png"  />
 </div>
 
 ###

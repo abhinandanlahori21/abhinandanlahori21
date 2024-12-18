@@ -4,6 +4,7 @@
 ### 
 
 <div align="center">
+  <p align="center">I am Abhinandan Lahori, an Application Analyst at </p>
   <img height="175" src="https://th.bing.com/th/id/OIP.Iok_mxaanK1CZlWPtSIqrQHaCs?rs=1&pid=ImgDetMain"  />
 </div>
 

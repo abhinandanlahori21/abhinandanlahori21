@@ -1,5 +1,4 @@
 <h1 align="center">Hello there!</h1>
-<p align="center">I am Abhinandan Lahori, an Application Analyst at </p>
  
 ### 
 
